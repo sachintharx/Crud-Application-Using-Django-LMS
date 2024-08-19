@@ -1,0 +1,14 @@
+{
+    "typeCheckingMode": "basic",
+    "reportAttributeAccessIssue": false,
+    "pythonVersion": "3.9",
+    "include": [
+      "path_to_your_django_project"
+    ],
+    "exclude": [
+      "**/__pycache__",
+      "**/node_modules",
+      "**/migrations"
+    ]
+  }
+  
